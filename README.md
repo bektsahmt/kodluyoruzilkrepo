@@ -23,4 +23,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT]
 
 
-[project p]: project_screenshot.png
+![project](project_screenshot.png)
